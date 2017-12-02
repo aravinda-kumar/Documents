@@ -1,0 +1,19 @@
+1. How a website works? When you type an URI in browser what happens in a popular website? How do you get a login page
+2. How the HTTP and HTTPS work? How can you configure HTTPS for your website?
+3. What is the proxy in network?
+4. How loadbalncer works? Complete architecture
+5. How loadbalncer server checks for the security?
+6. can you implement authentication in Loadbalncer? What is the ideal approach? What validations should be part of load balancer?
+7. How a website hosted in multiple server works?
+8. How can you improve performance of you website?
+9. What is horizontal and vertical scaling?
+10. How the IIS responsible for validating the SSL certificate of your website
+11. How a client-server HTTPS connection work?
+12. What is the role of browser apart from rendering the webpage? What is the role of browser while making a secure https connection?
+13. how do you manage session, cache and cookies and what are their roles?
+14. how do you authenticate a same person logging from differeent machines
+15. How goofle andriod notification happens when logged in with different smartphones
+16. What is OAuth Concept? 
+17. What is POJO and POCO concept
+18. What is SOLID priciple?
+19. How tinyUrl Works?
